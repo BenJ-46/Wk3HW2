@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+    background-color: dimgrey;
+    text-align: center;
+}
+
+button {
+    display: block;
+}
+
+.containerr {
+    margin: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+#search-input {
+    width: 86%;
+    height: 35px;
+}
+
